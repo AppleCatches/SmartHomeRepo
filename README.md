@@ -287,3 +287,13 @@ OPEN file index.html
 Run and Debug (Ctrl+Shift+D)
 START Debugging (F5)
 Main + renderer
+
+
+
+RESOURCES
+https://nodejs.org/en/download
+https://www.google.com/search?q=set+up+a+development+environment+with+electron+js&rlz=1C1VIQF_enUS1085US1085&oq=set+up+a+development+environment+with+electron+js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyCggEEAAYogQYiQUyCggFEAAYgAQYogQyCggGEAAYogQYiQUyCggHEAAYogQYiQXSAQg4NDU2ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP
+https://content-security-policy.com/default-src/#:~:text=The%20default%2Dsrc%20Content%20Security,style%2Dsrc%20%2C%20etc.)
+https://www.w3schools.com/Tags/att_meta_http_equiv.asp
