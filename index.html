@@ -1,0 +1,24 @@
+<!--https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- content-type: specify the character encoding for the document -->
+    <meta charset="UTF-8" />
+    <!-- specify a content policy for the document -->
+    <meta 
+      http-equiv="Content-Security-Policy" 
+      content="default-src 'self'; script-src 'self'"
+    /> <!-- content="the document's preferred stylesheet" -->
+    <meta
+      http-equiv="X-Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
+    <title>Hello from Electron renderer!</title> <!-- title of web application-->
+  </head>
+  <body>
+    <h1>Hello from Electron renderer!</h1>
+    <p>👋</p>
+    <p id="info"></p>
+  </body>
+  <script src="https://www.example.com/renderer.js"></script> <!-- comment -->
+</html>
